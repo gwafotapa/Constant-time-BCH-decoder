@@ -44,7 +44,7 @@ gf_primitive_poly(unsigned int m)
 {
         switch(m) {
         case 3:  return 0xB;
-        case 4:  return 0x11;
+        case 4:  return 0x13;
         case 5:  return 0x25;
         case 6:  return 0x43;
         case 7:  return 0x83;
