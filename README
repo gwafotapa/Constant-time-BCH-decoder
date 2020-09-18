@@ -172,3 +172,9 @@ IEEE Transactions on Information Theory 56.12 (2010): 6265-6272.
 "McBits: fast constant-time code-based cryptography."
 International Workshop on Cryptographic Hardware and Embedded Systems.
 Springer, Berlin, Heidelberg, 2013.
+
+
+6. LICENCE
+----------
+
+This project is licensed under the GNU Lesser General Public License v3.0 - see the LICENSE file for details.
